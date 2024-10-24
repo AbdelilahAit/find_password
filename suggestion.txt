@@ -1,0 +1,7 @@
+IF YOU WANT TO RUN THE PROGRAM JUST WITH ONE LINUX COMMAND
+GO TO .bashrc
+BY TYPING THIS COMMAND
+sudo nano .bashrc
+AND ADD THIS COMMAND IN YOUR .bashrc FILE
+alias command_name='sudo python3 /path/of/netpasswd.py'
+AND SAVE THE CHANGE
