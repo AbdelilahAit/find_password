@@ -9,7 +9,7 @@ This simple program only supports the Linux system and it helps you to know the 
 **`sudo cat -n ESSID`**
 ## Search for 
 **`psk=password`**
-##This is the password
+## This is the password
 ---
 <img align="center" alt="example" style="border-radius=10px;align-items:center" src="https://media.geeksforgeeks.org/wp-content/uploads/Capture3-2.png"></img>
 ---
