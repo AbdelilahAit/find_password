@@ -12,6 +12,7 @@ psk=password
 #this is the password
 ```
 ---
+### _🖼️ example:_
 ![image](https://github.com/user-attachments/assets/da07d786-1e1b-45ea-9aa2-b8f81ee848ed)
 ---
 ### _💡 Best idea:_
