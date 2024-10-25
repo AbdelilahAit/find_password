@@ -1,19 +1,20 @@
-### 📃 description
-This simple program only supports the Linux system and it helps you to know the password for the networks that you have connected to previously. If you do not want this program, you can write the following command:
+<!-- italics -->
+### _📃 description_
+_This simple program only supports the Linux system and it helps you to know the password for the networks that you have connected to previously. If you do not want this program, you can write the following command:_
 
 ## 
 ```
 cd /etc/NetworkManager/system-connections/    # Go to the folder
 ls                                            # Display folder contents
-sudo cat -n ESSID                             # View file content
+sudo cat -n Wifi_Name                         # View file content
 ```
-### 🔍 Search for
+### _🔍 Search for_
 ```
 psk=password
 #this is the password
 ```
 
 ---
-<img align="center" alt="example" src="https://media.geeksforgeeks.org/wp-content/uploads/Capture3-2.png" style="border-radius=10px"></img>
+![image](https://github.com/user-attachments/assets/da07d786-1e1b-45ea-9aa2-b8f81ee848ed)
 ---
-👨‍💻 Writed By *(AbdelilahAit)*
+### _👨‍💻 Writed By *(AbdelilahAit)*_
