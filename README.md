@@ -11,6 +11,6 @@ Search for
 **`psk=password`**
 This is the password
 ---
-<img align="center" width="40px" alt="example" style="border-radius=10px" src="https://media.geeksforgeeks.org/wp-content/uploads/Capture3-2.png"></img>
+<img align="center" alt="example" style="border-radius=10px" src="https://media.geeksforgeeks.org/wp-content/uploads/Capture3-2.png"></img>
 ---
 # 👩‍💻 Writed By *(AbdelilahAit)*
