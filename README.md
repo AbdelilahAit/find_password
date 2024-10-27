@@ -19,4 +19,9 @@ psk=password
 ```
 alias CommandName='python3 /path/of/the/findpsk.py'
 ```
+### _example:_
+```
+alias findpsk='python3 /path/of/the/findpsk.py'
+```
+so type 'findpsk' and press Enter key in your terminal
 ### _👨‍💻 Writed By : AbdelilahAit_
