@@ -1,5 +1,7 @@
 ### _📃 description:_
-_This simple program only supports the Linux system and it helps you to know the password for the networks that you have connected to previously. If you do not want this program, you can write the following command:_
+_This simple program only supports the Linux system and it helps you to know the password for the networks that you have connected to previously._
+---
+_If you do not want this program, you can write the following command:_
 
 ```
 cd /etc/NetworkManager/system-connections/    # Go to the folder
