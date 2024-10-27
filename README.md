@@ -17,11 +17,11 @@ psk=password
 ---
 ### _💡 Best idea:_
 ```
-alias CommandName='python3 /path/of/the/findpsk.py'
+alias CommandName='python3 /path/of/the/program.py'
 ```
 ### _example:_
 ```
 alias findpsk='python3 /path/of/the/findpsk.py'
 ```
-so type 'findpsk' and press Enter key in your terminal
+so type 'findpsk' in your terminal and press Enter
 ### _👨‍💻 Writed By : AbdelilahAit_
