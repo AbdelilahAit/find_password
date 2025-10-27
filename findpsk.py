@@ -1,3 +1,5 @@
+# this tool created by "0xNøva"
+
 import os
 import sys
 import platform
@@ -16,7 +18,7 @@ OS = platform.system()
 
 if OS == 'Linux':
     os.system('clear')
-    print(f'{Back.LIGHTGREEN_EX}{Fore.BLUE}{Style.NORMAL}[x]Created By *(AbdelilahAit)*{reset}')
+    print(f'{Back.LIGHTGREEN_EX}{Fore.BLUE}{Style.NORMAL}[x]Created By *(0xNøva)*{reset}')
     print(f'{Fore.LIGHTBLUE_EX}[*] Welcome To : {Fore.LIGHTGREEN_EX}findpsk.py{reset}')
     
     path = '/etc/NetworkManager/system-connections/'
